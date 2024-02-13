@@ -1,0 +1,17 @@
+Task Two: Use one of the following websites and the inspect tool to identify 2-3 colors used repeatedly as part of the site’s color scheme. Remember that different shades of gray and black can be included as a color.	 
+He inspeccionado los colores de la web https://timmyomahony.com/ y he encontrado estos:
+
+.bg-beige {
+    --tw-bg-opacity: 1;
+    background-color: rgb(240 240 232/var(--tw-bg-opacity));
+}
+
+.text-brown {
+    --tw-text-opacity: 1;
+    color: rgb(114 100 92/var(--tw-text-opacity));
+}
+
+.text-black {
+    --tw-text-opacity: 1;
+    color: rgb(0 0 0/var(--tw-text-opacity));
+}
