@@ -2,6 +2,6 @@ Task Three: Create a user story by referencing one of these websites
 
 En Facebook una historia de usuario podría ser "hacer login en Facebook con mis credenciales".
 
-No sé si queréis que utilice algún programa para desarrollar esta historia, me podéis decir cual? he estado mirando el Lucidchart pero no sé si tengo que hacer un diagrama url o qué!! gracias.
+No sé si queréis que utilice algún programa para desarrollar esta historia, me podéis decir cual? he estado mirando el Lucidchart pero no sé si tengo que hacer un diagrama uml o qué!! gracias.
 
 
