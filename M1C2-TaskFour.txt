@@ -1,12 +1,12 @@
 Task Four: Identify the prime objective of Facebook, Twitter, Google, and Youtube.
 
-Facebook: Red social cuyo objetivo es compartir información/contenido con gente conocida familiares, amigos ó conocidos.
+Facebook: Red social cuyo objetivo es compartir información/contenido con gente conocida.
 
 Twitter: Red social que permite a través del envío de mensajes cortos estar informado de lo que pasa a nuestro alrededor en tiempo real.
 
 Google: Buscador de webs, rastrea las webs periódicamente para luego ofrecérselas a los usuarios según sus gustos.
 
-Youtube: Red social cuyo objetivo es compartir videos creados por usuarios y que además el resto de usuarios puedan interactúan diciendo si les gusta. 
+Youtube: Red social cuyo objetivo es compartir videos creados por usuarios e interactúan con ellos.
 
 
 
